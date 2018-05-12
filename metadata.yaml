@@ -1,4 +1,8 @@
 _repo: The-Letters-of-Norah-on-Her-Tour-Through-Ireland_6599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Norah
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2110'
     url: http://www.gutenberg.org/2009/agents/2110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6599#The-Letters-of-Norah-on-Her-Tour-Through-Ireland
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
